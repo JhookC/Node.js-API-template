@@ -20,4 +20,4 @@ This template is a basic API developed in node.js and express that includes auth
 
 ##Installation
 
-At cmd/terminal go to the project folder and type the command `npm install`
+At cmd/terminal go to the project folder and type the command `npm install`. To run it, go to **app** folder and type the command `node server.js`.
